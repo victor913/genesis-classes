@@ -1,0 +1,110 @@
+@font-face { 
+    font-family: 'CocaCola'; 
+    src: url('fonts/CocaCola.woff') format('woff');
+    font-weight: normal; 
+    font-style: normal; 
+}
+
+html,
+body{
+	margin: 0;
+	padding: 0; 
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    scroll-behavior: smooth;
+}
+.menu {
+    background-color: darkslateblue;
+    border-bottom: 4px solid green;
+    font-weight:bold;
+}
+
+.menu a {
+    color: #fff;
+    padding: 20px;
+    display: block;
+    text-decoration: none;
+}
+
+
+.container {
+    width: 80%;
+    margin:7%;
+}
+
+.header-page {
+    min-height: 100vh;
+    background-image: url('images/background.jpg');
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    padding: 5px;
+}
+
+.content{
+    text-align: center;
+    line-height: 2;
+    color: #fff;
+    font-size:120%;
+}
+
+.podrobn1{
+    display: inline-block;
+    text-align: center;
+    margin: 20px;
+    color: grey;
+    font-size: 180%;
+    font-weight:bold;
+    text-decoration: none;
+
+
+}
+
+.page {
+    min-height: 100vh;
+	background-color: #fff;
+    padding: 15px;
+}
+
+.red-line{
+    text-indent: 15px;
+}
+
+.cola-text {
+    font-family: 'CocaCola';
+    font-size: 30px;
+}
+
+.menu li{
+    list-style: none;
+    display: inline-block;
+    margin-left: -5px;
+   
+}
+
+.menu li a{
+    padding: 20px;
+    display: inline-block;
+}
+.menu li a:hover{
+    background-color:green;
+}
+
+.menu{
+    background-color:blueviolet;
+    padding: 0;
+    margin: 0;
+
+}
+
+.h2stile{
+    text-align: center;
+    text-transform:uppercase;
+    font-size: 220%;
+}
+
+.content2 {
+    width: 90%;
+    margin: 0 auto; 
+    font-size: 40px; color: black; font-family: 'CocaCola';
+    text-align: left;
+}
