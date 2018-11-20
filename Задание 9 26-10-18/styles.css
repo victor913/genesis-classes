@@ -1,0 +1,76 @@
+@font-face {
+    font-family: 'Slant';
+    src: url(fonts/slant.otf);
+}
+h3 {
+    color: black;
+}
+h1,h2{
+    color:goldenrod;
+}
+/*!---div{
+    color: rgba(91, 13, 193, 0.532);
+    color: #00ffaaff;
+    color: transparent;
+}
+*/
+div{
+    text-align: center;
+    /*width: 50vw;*/
+    height: 50vh;
+  /*  background-color: aquamarine;
+    background-image: url('images/Earth.jpg');
+    background-size: 100% 100%;
+    background-color: linear-gradient(45deg,white,black);*/
+ 
+}
+
+
+
+/*html {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 16px;
+}
+
+p {
+    width: 200px;
+    text-align: justify;
+    text-indent: 200px;
+    line-height: 2;
+}
+
+img {
+    height: 200px;
+}
+
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    font: 2rem 'Slant';
+}
+
+h2 {
+    text-transform: capitalize;
+    letter-spacing: 5px;
+    font: 1.5rem 'Slant';
+}
+
+div {
+    height: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+ol {
+    text-transform: capitalize;
+}
+
+table {
+    text-align: center;
+}
+
+th {
+    font-style: italic;
+}*/

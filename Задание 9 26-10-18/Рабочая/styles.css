@@ -1,0 +1,72 @@
+@font-face { 
+    font-family: 'CocaCola'; 
+    src: url('fonts/CocaCola.woff') format('woff');
+    font-weight: normal; 
+    font-style: normal; 
+}
+
+html,
+body{
+	margin: 0;
+	padding: 0; 
+    font-family: Tahoma, Verdana, sans-serif;
+    scroll-behavior: smooth;
+}
+
+a {
+    font-family: 'CocaCola';
+    color: lightblue;
+    font-size: 30px;
+}
+
+span {
+    font-size: 40px; color: gold; font-family: 'CocaCola';
+}
+
+p {
+    text-align: justify;
+    line-height: 2;
+}
+
+.block1{
+    background-image: url('images/bg-1.jpg'); 
+    background-size : cover;
+    
+}
+
+
+.z1{
+    color: darkgoldenrod;
+}
+
+.block2{
+    background-image: linear-gradient(0deg, lightblue, white, lightblue); 
+    color: yellow;
+    
+}    
+
+
+.page-size{
+    color: white;
+    text-align: center;
+    border-top: 20px solid transparent; 
+    min-height: 75vh;
+    width: 100%;
+}
+
+.z2{
+    color: darkgoldenrod;
+}
+
+.proverka{
+    color: black;
+}
+
+.otstup{
+    margin: 0 40px;
+    color: blueviolet;
+}
+
+.otstup2{
+    margin-top: 20px;
+}
